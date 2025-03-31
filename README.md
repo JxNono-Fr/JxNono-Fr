@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on **Discord bots**
 - 🌱 I’m currently learning **Python**
-- 💬 Ask me about **Discord bot development**
 - ⚡ Fun fact: **I love programation!**
 
 ### 🛠 Tech Stack
