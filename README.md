@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Discord bots**
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Cybersecurity**
 - ⚡ Fun fact: **I love programation!**
 
 ### 🛠 Tech Stack
